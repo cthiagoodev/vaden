@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/anaki_orm/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/anaki_orm/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/anaki_orm/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden_class_scanner/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden_class_scanner/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vaden_class_scanner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bcrypt/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bcrypt/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/bcrypt/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
